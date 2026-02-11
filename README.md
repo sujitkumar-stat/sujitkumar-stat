@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sujit Kumar</h1>
 <h3 align="center">A Passionate Researcher and Student in the Department of Statistics</h3>
 
-<img align="right" alt="Coding" width="260" src="https://github.com/sujit-kumar3/sujit-kumar3/blob/main/Data-Website-Analytics.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujit-kumar3&label=Profile%20views&color=0e75b6&style=flat" alt="sujit-kumar3" /> </p>
+<img align="right" alt="Coding" width="260" src="https://github.com/sujitkumar-stat/sujit-kumar3/blob/main/Data-Website-Analytics.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitkumar-stat&label=Profile%20views&color=0e75b6&style=flat" alt="sujitkumar-stat" /> </p>
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sujit-kumar3)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sujitkumar-stat)
 
 - 📫 How to reach me: **sujit.kumar.stat@gmail.com**
 
@@ -41,8 +41,8 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujit-kumar3&show_icons=true&locale=en&layout=compact" alt="sujit-kumar3" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sujitkumar-stat&show_icons=true&locale=en&layout=compact" alt="sujitkumar-stat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujit-kumar3&show_icons=true&locale=en" alt="sujit-kumar3" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujitkumar-stat&show_icons=true&locale=en" alt="sujitkumar-stat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujit-kumar3&" alt="sujit-kumar3" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujitkumar-stat&" alt="sujitkumar-stat" /></p>
